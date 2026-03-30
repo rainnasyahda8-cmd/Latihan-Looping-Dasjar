@@ -8,6 +8,8 @@ string statusKuota;
 
 //prosedur input
 void input() {
-    
+    cout << "=== PENDAFTARAN JURUSAN KAMPUS ==="<<endl;
+    cout <<
+
 }
 
