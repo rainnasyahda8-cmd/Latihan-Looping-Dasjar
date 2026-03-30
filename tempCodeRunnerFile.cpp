@@ -1,1 +1,1 @@
-if
+switch (kodeJurusan){

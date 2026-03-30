@@ -2,7 +2,7 @@
 using namespace std;
 
 //Deklarasi variable global
-int KodeaJurusan;
+int kodeaJurusan;
 string namaJurusan:
 string statusKuota;
 
@@ -20,7 +20,17 @@ void input() {
 //prosedur untuk pengecekan kondisi
 void pilihanJurusan() {
     switch (kodeJurusan){
-        
+        case 1:
+            namajurusan = "Teknologi Informasi";
+            statusKuota = "Tersedia (15 kursi)";
+            break;
+        case 2:
+            namaJurusan = "Teknologi Elektro";
+            statusKuota = "Kuota Penuh!";
+            break;
+        case 3:
+            namaJurusan = "Sistem Informasi"
+
     }
 
 }
