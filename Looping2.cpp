@@ -19,6 +19,9 @@ void input() {
 
 //prosedur untuk pengecekan kondisi
 void pilihanJurusan() {
+    switch (kodeJurusan){
+        
+    }
 
 }
 
