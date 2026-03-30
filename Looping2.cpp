@@ -6,3 +6,8 @@ int KodeaJurusan;
 string namaJurusan:
 string statusKuota;
 
+//prosedur input
+void input() {
+    
+}
+
